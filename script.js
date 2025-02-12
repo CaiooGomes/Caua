@@ -1,5 +1,5 @@
 const mensagens = [
-    "nao acabei ainda",
+    "nao acabei ainda 🐨",
     "Quero te desejar um feliz aniversário 🥳🥳",
     "Quero que você saiba que você é uma pessoa muito importante na minha vida, e que eu te considero demais mesmo",
     "Eu sou um pouco fechado e as vezes pode não parecer mas eu gosto muito de você de verdade, eu gosto de ouvir vc contar de coisas aleatórias, ou histórias 'aumentadas' (até um certo pontokkkkk)",
