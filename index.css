@@ -1,0 +1,53 @@
+.div1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20vh;
+    width: 100vw;
+}
+#paragrafo1{
+    display: flex;
+    width: 85vw;
+    margin-left: 5vw;
+    margin-right: 22vw;
+    
+}
+
+.div1 button{
+    height: 5vh;
+    width: 5vh;
+    margin-right: 5vw;
+    margin-left: 5vw;
+    padding: 5px;
+    border: none;
+    box-shadow: 0px 0px 10px 8px rgb(21, 255, 0);
+    border-radius: 10px;
+    background-color: rgb(21, 255, 0);
+    position: absolute;
+    right: 10px;
+    top: 50vh;
+
+    
+}
+.div1 button img{
+    height: 30px;
+}
+body{
+    height: 100vh;
+    background: linear-gradient(to bottom, rgb(255, 136, 0) 60%, rgb(21, 255, 0));
+    background-size: 100% 200%;
+    animation: linearGradient 2s infinite alternate;
+    font-family: "Chewy", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0px;
+  overflow: hidden;
+}
+
+@keyframes linearGradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    100% {
+        background-position: 0% 100%;
+    }
+}
