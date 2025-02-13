@@ -17,8 +17,10 @@ const mensagens = [
     "Nunca vou esquecer das vezes que não deu certo e vc tava lá pra me ouvir nos momentos em que meu mundo desabou",
     "Nunca vou esquecer das vezes que vc pagou alguma coisa pra eu comer nos rolês",
     "Você é a minha dupla, o meu companheiro, e de verdade eu desejo tudo de melhor pra você",
+    "Eu quero que você saiba que sempre que você precisar eu vou estar aqui pra você, nos momentos bons e nos momentos ruins",
     "E quem diria que nós iriamos fazer a faculdade juntos, temos pelo menos mais uns 5 anos juntos, e nesse primeiro ano ainda vamos ficar na mesma sala, basicamente vai ser o ensino médio parte 2",
     "Eu espero que quando tivermos uns 70 anos nós estejamos contando sobre os dias de hoje para nossos filhos e netos akkakakakka",
+    "[link steam presente]",
 
 ];
 
