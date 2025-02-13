@@ -9,7 +9,16 @@
     width: 85vw;
     margin-left: 5vw;
     margin-right: 22vw;
+    color: rgb(255, 255, 255);
+    z-index: 2;
     
+}
+
+.bolha{
+    position: absolute;
+    display: flex;
+    animation: infinite bolhasobedesce 4s;
+    transition: ease-in-out;
 }
 
 .div1 button{
@@ -56,6 +65,80 @@ body{
   font-style: normal;
   margin: 0px;
   overflow: hidden;
+}
+
+.bolha2{
+    position: absolute;
+    display: flex;
+    animation: infinite bolhasobedesce2 4s;
+    transition: ease-in-out;
+}
+.bolha3{
+    position: absolute;
+    display: flex;
+    animation: infinite bolhasobedesce3 4s;
+    transition: ease-in-out;
+}
+
+@keyframes bolhasobedesce {
+    0%{
+        top: 120vh;
+        left: 20vw;
+    }
+    25%{
+        left: 10vw;
+    }
+    50%{
+        top: 40vh;
+        left: 20vw;
+    }
+    75%{
+        left: 10vw;
+    }
+    100%{
+        top: 120vh;
+        left: 10vw;
+    }
+}
+@keyframes bolhasobedesce2 {
+    0%{
+        top: 120vh;
+        left: 50vw;
+    }
+    25%{
+        left: 40vw;
+    }
+    50%{
+        top: 50vh;
+        left: 50vw;
+    }
+    75%{
+        left: 40vw;
+    }
+    100%{
+        top: 120vh;
+        left: 10vw;
+    }
+}
+@keyframes bolhasobedesce3 {
+    0%{
+        top: 120vh;
+        left: 70vw;
+    }
+    25%{
+        left: 60vw;
+    }
+    50%{
+        top: 30vh;
+        left: 70vw;
+    }
+    75%{
+        left: 60vw;
+    }
+    100%{
+        top: 120vh;
+        left: 10vw;
+    }
 }
 
 @keyframes linearGradient {
