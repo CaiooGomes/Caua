@@ -45,6 +45,7 @@
     margin-top: 40%;
     rotate: 90deg;
     scale: 1.7;
+    z-index: 2;
 }
 
 .div1 button:active{
